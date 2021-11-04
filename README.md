@@ -8,7 +8,7 @@
 ### This repository describes how I have been recovering from social anxiety disorder.
 
 - I'll write Japanese and English ver.
-  - [English ver]("./english/english.mdenglish/english.md")
+  - [English ver]("https://github.com/Kaikei-e/How-I-live-with-SAD-WIP/blob/main/english/english.md")
 - 日本語と英語の両方で記述していきます。
 
 
