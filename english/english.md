@@ -13,7 +13,7 @@
 
 <br>
 
-#### Who am I?
+#### Who I am?
 - Working as a software engineer in Tokyo.
 - Diagnosed with social anxiety disorder when I was in university.
 - Now, despite my difficulties, I manage to go to meetings and speak up like a normal member of society.
