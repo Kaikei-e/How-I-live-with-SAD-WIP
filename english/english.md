@@ -33,4 +33,8 @@ I was so terrified of giving a 30-minute presentation in high school that I got 
 
 In the university, I suffered from a fear of women, which made discussion lessons and the like painful.<br>
 
-In addition, the number of public speaking engagements and presentations increased dramatically, and my depression worsened in my second year of university. I could not stop crying even when I was at home and not doing anything. At the same time, I couldn't get up from the bed and had continuous feelings of "I want to disappear" and "I want to be gone". For this reason, I went to see a psychosomatic doctor for the first time in my life.
+In addition, the number of public speaking engagements and presentations increased dramatically, and my depression worsened in my second year of university. I could not stop crying even when I was at home and not doing anything. At the same time, I couldn't get up from the bed and had continuous feelings of "I want to disappear" and "I want to be gone". For this reason, I went to see a psychosomatic doctor for the first time in my life.<br>
+
+Since then, I have been visiting the hospital on a regular basis. My initial diagnosis was "bipolar disorder," and I didn't even know the concept of "social anxiety disorder" at first. I thought it was just " shyness ". <br>
+
+I managed to spend my days in a state of depression, but in my third year of college, I had to look for a job. In the name of internship, I started the preparatory work to get a job offer from a company. Although I was a liberal arts graduate, I knew that sales and clerical jobs were not suitable for me due to my personality, so I started to work towards becoming a software engineer, which I was just interested in.
