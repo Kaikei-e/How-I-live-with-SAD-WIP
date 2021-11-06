@@ -37,4 +37,12 @@ In addition, the number of public speaking engagements and presentations increas
 
 Since then, I have been visiting the hospital on a regular basis. My initial diagnosis was "bipolar disorder," and I didn't even know the concept of "social anxiety disorder" at first. I thought it was just " shyness ". <br>
 
-I managed to spend my days in a state of depression, but in my third year of college, I had to look for a job. In the name of internship, I started the preparatory work to get a job offer from a company. Although I was a liberal arts graduate, I knew that sales and clerical jobs were not suitable for me due to my personality, so I started to work towards becoming a software engineer, which I was just interested in.
+I managed to spend my days in a state of depression, but in my third year of college, I had to look for a job. In the name of internship, I started the preparatory work to get a job offer from a company. Although I was a liberal arts graduate, I knew that sales and clerical jobs were not suitable for me due to my personality, so I started to work towards becoming a software engineer, which I was just interested in.<br>
+
+
+I don't know what the situation is like overseas, but I feel that in Japan, people with social anxiety disorder who are not aware of their condition are often dismissed as just "nervous" or "shy," and often blame themselves for not being able to do something so simple. I feel that many of them blame themselves for not being capable of such an easy task. This is because I was one of them.<br>
+
+That's why I went to multiple interviews for internship positions at IT companies. In all of them, I pushed myself to go to the interviews even though I had been feeling depressed for a month before, lost my appetite, and couldn't get out of bed." I just care too much about myself." If I can't do this well, I won't be able to make it in the future." I went to the interview, relentlessly berating myself. As you can probably guess, I failed miserably and failed all the internship interviews.Of course, one of the reasons was that I had no experience and no skills, but I think the other reason was that I was too nervous to answer the questions properly.<br>
+
+
+
