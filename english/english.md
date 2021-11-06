@@ -28,4 +28,9 @@ I am a shy person by nature, and my earliest trauma is the memory of being laugh
 After that, I spent my school years in elementary, junior high, and high school, avoiding public appearances. <br> 
 
 
-I was so terrified of giving a 30-minute presentation in high school that I got through it by reading the manuscript verbatim with my hands trembling.
+I was so terrified of giving a 30-minute presentation in high school that I got through it by reading the manuscript verbatim with my hands trembling.<br>
+
+
+In the university, I suffered from a fear of women, which made discussion lessons and the like painful.<br>
+
+In addition, the number of public speaking engagements and presentations increased dramatically, and my depression worsened in my second year of university. I could not stop crying even when I was at home and not doing anything. At the same time, I couldn't get up from the bed and had continuous feelings of "I want to disappear" and "I want to be gone". For this reason, I went to see a psychosomatic doctor for the first time in my life.
