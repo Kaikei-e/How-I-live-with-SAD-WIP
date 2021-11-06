@@ -44,5 +44,5 @@ I don't know what the situation is like overseas, but I feel that in Japan, peop
 
 That's why I went to multiple interviews for internship positions at IT companies. In all of them, I pushed myself to go to the interviews even though I had been feeling depressed for a month before, lost my appetite, and couldn't get out of bed." I just care too much about myself." If I can't do this well, I won't be able to make it in the future." I went to the interview, relentlessly berating myself. As you can probably guess, I failed miserably and failed all the internship interviews.Of course, one of the reasons was that I had no experience and no skills, but I think the other reason was that I was too nervous to answer the questions properly.<br>
 
-
+##### Sudden drop
 
