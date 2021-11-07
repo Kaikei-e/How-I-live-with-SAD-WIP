@@ -5,6 +5,8 @@
     - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
     - [Who I am?](#who-i-am)
     - [My own personality, my desiese progress and traumas](#my-own-personality-my-desiese-progress-and-traumas)
+      - [childhood](#childhood)
+      - [adolescence](#adolescence)
       - [Sudden drop](#sudden-drop)
 ## This repository describes how I have been recovering from social anxiety disorder.
 
@@ -23,6 +25,9 @@
 ### My own personality, my desiese progress and traumas
 <br>
 
+#### childhood
+
+
 I am a shy person by nature, and my earliest trauma is the memory of being laughed at (without malice) for an outlandish comment at a cram school I attended in elementary school.
 <br>
 
@@ -31,6 +36,7 @@ After that, I spent my school years in elementary, junior high, and high school,
 
 I was so terrified of giving a 30-minute presentation in high school that I got through it by reading the manuscript verbatim with my hands trembling.<br>
 
+#### adolescence
 
 In the university, I suffered from a gynephobia, which made discussion lessons and the like painful.<br>
 
