@@ -3,8 +3,9 @@
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
     - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
       - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
-      - [Who am I?](#who-am-i)
+      - [Who I am?](#who-i-am)
       - [My own personality and traumas](#my-own-personality-and-traumas)
+        - [Sudden drop](#sudden-drop)
 ### This repository describes how I have been recovering from social anxiety disorder.
 
 <br>

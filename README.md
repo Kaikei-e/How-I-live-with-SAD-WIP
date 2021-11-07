@@ -4,7 +4,8 @@
     - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
       - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
       - [私は誰？](#私は誰)
-      - [自身の性格とトラウマたち](#自身の性格とトラウマたち)
+      - [自身の性格とトラウマ](#自身の性格とトラウマ)
+        - [急降下](#急降下)
 ### This repository describes how I have been recovering from social anxiety disorder.
 
 - I'll write Japanese and English ver.
