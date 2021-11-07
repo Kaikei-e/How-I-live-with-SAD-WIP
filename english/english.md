@@ -46,4 +46,8 @@ I don't know what the situation is like overseas, but I feel that in Japan, peop
 That's why I went to multiple interviews for internship positions at IT companies. In all of them, I pushed myself to go to the interviews even though I had been feeling depressed for a month before, lost my appetite, and couldn't get out of bed." I just care too much about myself." If I can't do this well, I won't be able to make it in the future." I went to the interview, relentlessly berating myself. As you can probably guess, I failed miserably and failed all the internship interviews.Of course, one of the reasons was that I had no experience and no skills, but I think the other reason was that I was too nervous to answer the questions properly.<br>
 
 ##### Sudden drop
+<br>
 
+I have already mentioned that I failed all three of my internship interviews, but from this point on, my symptoms quickly worsened. My depression got worse, I couldn't sleep at night, and I was throwing up everything I ate. Why did it become like this?<br>
+
+It was due to anxiety. At that time, I had a particularly bad case of black-and-white thinking (or 01 thinking), and I was knocked down to the depths of despair, following the order of thinking: "I'll fail even an internship interview," "I won't be able to find a job at a company," "I won't be able to live after graduating from university," and "I'll have to die in the wild.<br>
