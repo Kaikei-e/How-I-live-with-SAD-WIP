@@ -4,7 +4,7 @@
     - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
       - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
       - [Who I am?](#who-i-am)
-      - [My own personality and traumas](#my-own-personality-and-traumas)
+      - [My own personality, my desiese progress and traumas](#my-own-personality-my-desiese-progress-and-traumas)
         - [Sudden drop](#sudden-drop)
 ### This repository describes how I have been recovering from social anxiety disorder.
 
@@ -20,7 +20,7 @@
 - Now, despite my difficulties, I manage to go to meetings and speak up like a normal member of society.
 
 
-#### My own personality and traumas
+#### My own personality, my desiese progress and traumas
 <br>
 
 I am a shy person by nature, and my earliest trauma is the memory of being laughed at (without malice) for an outlandish comment at a cram school I attended in elementary school.

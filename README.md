@@ -4,7 +4,7 @@
     - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
       - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
       - [私は誰？](#私は誰)
-      - [自身の性格とトラウマ](#自身の性格とトラウマ)
+      - [自身の性格と、病状経過およびトラウマ](#自身の性格と病状経過およびトラウマ)
         - [急降下](#急降下)
 ### This repository describes how I have been recovering from social anxiety disorder.
 
@@ -25,7 +25,7 @@
 - 大学時に社交不安障害の診断が下りた
 - 現在では、苦労はあれど、なんとか普通の社会人のように会議に出たり、発言をしたりしている
 
-#### 自身の性格とトラウマ
+#### 自身の性格と、病状経過およびトラウマ
 
 元来人見知りで、小学生のころに通っていた塾での突飛な発言で笑われた（悪意はない）記憶が、もっとも古いトラウマになる。
 <br>
