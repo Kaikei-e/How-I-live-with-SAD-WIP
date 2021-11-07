@@ -32,13 +32,13 @@ After that, I spent my school years in elementary, junior high, and high school,
 I was so terrified of giving a 30-minute presentation in high school that I got through it by reading the manuscript verbatim with my hands trembling.<br>
 
 
-In the university, I suffered from a fear of women, which made discussion lessons and the like painful.<br>
+In the university, I suffered from a gynephobia, which made discussion lessons and the like painful.<br>
 
 In addition, the number of public speaking engagements and presentations increased dramatically, and my depression worsened in my second year of university. I could not stop crying even when I was at home and not doing anything. At the same time, I couldn't get up from the bed and had continuous feelings of "I want to disappear" and "I want to be gone". For this reason, I went to see a psychosomatic doctor for the first time in my life.<br>
 
 Since then, I have been visiting the hospital on a regular basis. My initial diagnosis was "bipolar disorder," and I didn't even know the concept of "social anxiety disorder" at first. I thought it was just " shyness ". <br>
 
-I managed to spend my days in a state of depression, but in my third year of college, I had to look for a job. In the name of internship, I started the preparatory work to get a job offer from a company. Although I was a liberal arts graduate, I knew that sales and clerical jobs were not suitable for me due to my personality, so I started to work towards becoming a software engineer, which I was just interested in.<br>
+I managed to spend my days in a state of depression, but in my third year of university, I had to look for a job. In the name of internship, I started the preparatory work to get a job offer from a company. Although I was a liberal arts graduate, I knew that sales and clerical jobs were not suitable for me due to my personality, so I started to work towards becoming a software engineer, which I was just interested in.<br>
 
 
 I don't know what the situation is like overseas, but I feel that in Japan, people with social anxiety disorder who are not aware of their condition are often dismissed as just "nervous" or "shy," and often blame themselves for not being able to do something so simple. I feel that many of them blame themselves for not being capable of such an easy task. This is because I was one of them.<br>
