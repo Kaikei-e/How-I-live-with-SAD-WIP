@@ -1,26 +1,26 @@
 # How do I live with "SAD", WIP
 
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
-    - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
-      - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
-      - [Who I am?](#who-i-am)
-      - [My own personality, my desiese progress and traumas](#my-own-personality-my-desiese-progress-and-traumas)
-        - [Sudden drop](#sudden-drop)
-### This repository describes how I have been recovering from social anxiety disorder.
+  - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
+    - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
+    - [Who I am?](#who-i-am)
+    - [My own personality, my desiese progress and traumas](#my-own-personality-my-desiese-progress-and-traumas)
+      - [Sudden drop](#sudden-drop)
+## This repository describes how I have been recovering from social anxiety disorder.
 
 <br>
 
-#### Naturally, I am not in remission yet, and the focus will be on describing my progress.
+### Naturally, I am not in remission yet, and the focus will be on describing my progress.
 
 <br>
 
-#### Who I am?
+### Who I am?
 - Working as a software engineer in Tokyo.
 - Diagnosed with social anxiety disorder when I was in university.
 - Now, despite my difficulties, I manage to go to meetings and speak up like a normal member of society.
 
 
-#### My own personality, my desiese progress and traumas
+### My own personality, my desiese progress and traumas
 <br>
 
 I am a shy person by nature, and my earliest trauma is the memory of being laughed at (without malice) for an outlandish comment at a cram school I attended in elementary school.
@@ -45,7 +45,7 @@ I don't know what the situation is like overseas, but I feel that in Japan, peop
 
 That's why I went to multiple interviews for internship positions at IT companies. In all of them, I pushed myself to go to the interviews even though I had been feeling depressed for a month before, lost my appetite, and couldn't get out of bed." I just care too much about myself." If I can't do this well, I won't be able to make it in the future." I went to the interview, relentlessly berating myself. As you can probably guess, I failed miserably and failed all the internship interviews.Of course, one of the reasons was that I had no experience and no skills, but I think the other reason was that I was too nervous to answer the questions properly.<br>
 
-##### Sudden drop
+#### Sudden drop
 <br>
 
 I have already mentioned that I failed all three of my internship interviews, but from this point on, my symptoms quickly worsened. My depression got worse, I couldn't sleep at night, and I was throwing up everything I ate. Why did it become like this?<br>

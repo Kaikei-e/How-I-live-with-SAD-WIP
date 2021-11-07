@@ -1,12 +1,12 @@
 # How do I live with "SAD", WIP
 
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
-    - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
-      - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
-      - [私は誰？](#私は誰)
-      - [自身の性格と、病状経過およびトラウマ](#自身の性格と病状経過およびトラウマ)
-        - [急降下](#急降下)
-### This repository describes how I have been recovering from social anxiety disorder.
+  - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
+    - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
+    - [私は誰？](#私は誰)
+    - [自身の性格と、病状経過およびトラウマ](#自身の性格と病状経過およびトラウマ)
+      - [急降下](#急降下)
+## This repository describes how I have been recovering from social anxiety disorder.
 
 - I'll write Japanese and English ver.
   - [English ver](english/english.md)
@@ -14,18 +14,18 @@
 
 
 
-#### 本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。
+### 本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。
 
 - 当然、まだ寛解しておらず、その経過を記述することに重点を置いたものになります。
 
 
-#### 私は誰？
+### 私は誰？
 
 - 東京でソフトウェアエンジニアをしている社会人
 - 大学時に社交不安障害の診断が下りた
 - 現在では、苦労はあれど、なんとか普通の社会人のように会議に出たり、発言をしたりしている
 
-#### 自身の性格と、病状経過およびトラウマ
+### 自身の性格と、病状経過およびトラウマ
 
 元来人見知りで、小学生のころに通っていた塾での突飛な発言で笑われた（悪意はない）記憶が、もっとも古いトラウマになる。
 <br>
@@ -45,7 +45,7 @@
 
 そんなわけでインターンの採用面接に複数回行ったが、そのどれも1ヶ月前から抑うつ感がひどくなったり、食欲が失せたり、ベッドから起き上がれなくなったりしても、無理をして面談を受けた。”自分が気にしすぎなだけ”。”これくらいできないと、将来やっていけない。”などと、執拗に自分を責め立てて、面接に臨んだ。察しがつくと思うが結果は惨敗で、すべてのインターン面接に落ちた。もちろん未経験でスキルがなかったことも原因の一つだろうが、それ以上にまともに受け答えできていなかったことも原因になっていたと思う。<br>
 
-##### 急降下
+#### 急降下
 <br>
 
 ３つほどのインターンの面接にすべて落ちてしまったことは既述したが、ここから一気に症状が悪化する。抑うつもひどくなり、夜は眠れず、食べたものは吐いてしまう始末だ。なぜこのようになったか。<br>
