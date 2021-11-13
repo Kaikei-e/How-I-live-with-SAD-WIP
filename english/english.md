@@ -3,6 +3,7 @@
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
   - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
     - [Naturally, I am not in remission yet, and the focus will be on describing my progress.](#naturally-i-am-not-in-remission-yet-and-the-focus-will-be-on-describing-my-progress)
+    - [I'm going to write what I believe to be a cliché but a truth.<br>](#im-going-to-write-what-i-believe-to-be-a-cliché-but-a-truth)
     - [Who I am?](#who-i-am)
     - [My own personality, my desiese progress and traumas](#my-own-personality-my-desiese-progress-and-traumas)
       - [childhood](#childhood)
@@ -15,6 +16,13 @@
 ### Naturally, I am not in remission yet, and the focus will be on describing my progress.
 
 <br>
+
+### I'm going to write what I believe to be a cliché but a truth.<br>
+
+
+- The only way to recover is to steadily build up your confidence, to accumulate small success stories that " I did it!", and to accumulate small successes, making progress little by little. In this way, even if you feel like dying from a panic attack, you still have to steadily increase your experience.
+- Also, keep your distance from people who despise you (not criticize you).
+- It is important to find people who affirm you, and to have experiences that make you feel accepted by them.<br>
 
 ### Who I am?
 - Working as a software engineer in Tokyo.
