@@ -1,4 +1,4 @@
-# How do I live with "SAD", WIP
+# How I live with "SAD", WIP
 
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
   - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
