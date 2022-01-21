@@ -2,7 +2,7 @@
 
 - [How do I live with "SAD", WIP](#how-do-i-live-with-sad-wip)
   - [This repository describes how I have been recovering from social anxiety disorder.](#this-repository-describes-how-i-have-been-recovering-from-social-anxiety-disorder)
-    - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すレポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
+    - [本リポジトリは私が社交不安障害を発症してから、どのように回復の過程にあるかを記すリポジトリです。](#本リポジトリは私が社交不安障害を発症してからどのように回復の過程にあるかを記すレポジトリです)
     - [先に結論](#先に結論)
     - [私は誰？](#私は誰)
     - [自身の性格と、病状経過およびトラウマ](#自身の性格と病状経過およびトラウマ)
